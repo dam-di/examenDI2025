@@ -1,0 +1,66 @@
+<examen>
+    <preguntas>
+        <!--  Matemáticas  -->
+        <pregunta a="-1/2" asignatura_id="2" b="2" c="3" d="0" enunciado="Calcula el valor de x: 2x+1=7" id="1" solucion="c"/>
+        <pregunta a="9π" asignatura_id="2" b="6π" c="3π" d="12π" enunciado="¿Cuál es el área de un círculo de radio 3?" id="2" solucion="a"/>
+        <pregunta a="2x + 3y" asignatura_id="2" b="4x + y" c="2x + y" d="x + 3y" enunciado="Simplifica: (3x + 2y) - (x - y)" id="3" solucion="a"/>
+        <pregunta a="3" asignatura_id="2" b="6" c="9" d="12" enunciado="¿Cuál es el valor de la derivada de f(x) = x² en x=3?" id="4" solucion="b"/>
+        <pregunta a="y=2x+1" asignatura_id="2" b="y=2x-1" c="y=x+1" d="y=2x" enunciado="Si una recta tiene pendiente 2 y pasa por (1,1), ¿cuál es su ecuación?" id="5" solucion="a"/>
+        <pregunta a="x=2 y x=3" asignatura_id="2" b="x=1 y x=6" c="x=0 y x=6" d="x=3 y x=6" enunciado="Resuelve la ecuación: x² - 5x + 6 = 0" id="6" solucion="a"/>
+        <pregunta a="1/2" asignatura_id="2" b="1" c="√3/2" d="0" enunciado="¿Cuál es el valor del seno de 30 grados?" id="7" solucion="a"/>
+        <pregunta a="30" asignatura_id="2" b="45" c="60" d="90" enunciado="Calcula el valor de x en el triángulo si sus ángulos son 90°, 45° y x°." id="8" solucion="b"/>
+        <pregunta a="5" asignatura_id="2" b="7" c="9" d="14" enunciado="¿Cuánto es la raíz cuadrada de 49?" id="9" solucion="b"/>
+        <pregunta a="-2" asignatura_id="2" b="2" c="4" d="-6" enunciado="Encuentra el determinante de la matriz [[1, 2], [3, 4]]" id="10" solucion="a"/>
+        <!--  Física  -->
+        <pregunta a="9.8 m/s²" asignatura_id="1" b="10 m/s²" c="8.9 m/s²" d="9.5 m/s²" enunciado="¿Cuál es la aceleración de un objeto en caída libre?" id="11" solucion="a"/>
+        <pregunta a="5 m/s²" asignatura_id="1" b="10 m/s²" c="20 m/s²" d="2 m/s²" enunciado="La fuerza que actúa sobre un objeto es de 10 N y su masa es 2 kg, ¿cuál es su aceleración?" id="12" solucion="a"/>
+        <pregunta a="1/2mv²" asignatura_id="1" b="mv" c="mg" d="mgh" enunciado="¿Cuál es la fórmula de la energía cinética?" id="13" solucion="a"/>
+        <pregunta a="0.5 Hz" asignatura_id="1" b="1 Hz" c="2 Hz" d="4 Hz" enunciado="Un péndulo oscila en 2 segundos, ¿cuál es su frecuencia?" id="14" solucion="a"/>
+        <pregunta a="fuerza" asignatura_id="1" b="aceleración" c="masa" d="velocidad" enunciado="Si F = ma, ¿qué representa 'a'?" id="15" solucion="b"/>
+        <pregunta a="3x10^8 m/s" asignatura_id="1" b="1x10^8 m/s" c="2x10^8 m/s" d="5x10^8 m/s" enunciado="¿Cuál es la velocidad de la luz en el vacío?" id="16" solucion="a"/>
+        <pregunta a="julio" asignatura_id="1" b="newton" c="vatio" d="pascal" enunciado="La unidad de potencia en el SI es:" id="17" solucion="c"/>
+        <pregunta a="primera" asignatura_id="1" b="segunda" c="tercera" d="cuarta" enunciado="¿Cuál es la ley de Newton que afirma: 'a toda acción corresponde una reacción'?" id="18" solucion="c"/>
+        <pregunta a="Unidad de fuerza" asignatura_id="1" b="Unidad de trabajo" c="Unidad de potencia" d="Unidad de presión" enunciado="¿Qué es un Joule?" id="19" solucion="b"/>
+        <pregunta a="0" asignatura_id="1" b="1 m/s²" c="9.8 m/s²" d="infinito" enunciado="Si un cuerpo se mueve a velocidad constante, ¿cuál es su aceleración?" id="20" solucion="a"/>
+        <!--  Geografía  -->
+        <pregunta a="Nilo" asignatura_id="3" b="Amazonas" c="Yangtsé" d="Misisipi" enunciado="¿Cuál es el río más largo del mundo?" id="21" solucion="b"/>
+        <pregunta a="Asia" asignatura_id="3" b="África" c="América" d="Europa" enunciado="¿En qué continente se encuentra el desierto del Sahara?" id="22" solucion="b"/>
+        <pregunta a="Canadá" asignatura_id="3" b="Rusia" c="China" d="EE.UU." enunciado="¿Cuál es el país más grande del mundo?" id="23" solucion="b"/>
+        <pregunta a="Filipinas" asignatura_id="3" b="Canadá" c="Suecia" d="Indonesia" enunciado="¿Qué país tiene la mayor cantidad de islas?" id="24" solucion="c"/>
+        <pregunta a="Sídney" asignatura_id="3" b="Melbourne" c="Canberra" d="Perth" enunciado="¿Cuál es la capital de Australia?" id="25" solucion="c"/>
+        <pregunta a="Mar Caspio" asignatura_id="3" b="Mar Muerto" c="Gran Cañón" d="Monte Everest" enunciado="¿Cuál es el punto más bajo de la Tierra?" id="26" solucion="b"/>
+        <pregunta a="Italia" asignatura_id="3" b="Francia" c="Alemania" d="España" enunciado="¿En qué país se encuentra la torre Eiffel?" id="27" solucion="b"/>
+        <pregunta a="Tokio" asignatura_id="3" b="Osaka" c="Seúl" d="Beijing" enunciado="¿Cuál es la capital de Japón?" id="28" solucion="a"/>
+        <pregunta a="Atlántico" asignatura_id="3" b="Índico" c="Pacífico" d="Ártico" enunciado="¿Qué océano está al oeste de América?" id="29" solucion="c"/>
+        <pregunta a="Oceanía" asignatura_id="3" b="África" c="Antártida" d="Europa" enunciado="¿Cuál es el continente menos poblado?" id="30" solucion="c"/>
+        <!--  Inglés  -->
+        <pregunta a="dog" asignatura_id="4" b="cat" c="bird" d="fish" enunciado="¿Cómo se dice 'perro' en inglés?" id="31" solucion="a"/>
+        <pregunta a="naranja" asignatura_id="4" b="manzana" c="pera" d="uva" enunciado="¿Qué significa 'apple'?" id="32" solucion="b"/>
+        <pregunta a="have" asignatura_id="4" b="has" c="having" d="is" enunciado="Elige la forma correcta: 'He ___ a car.'" id="33" solucion="b"/>
+        <pregunta a="pen" asignatura_id="4" b="table" c="book" d="door" enunciado="¿Cómo se traduce 'libro' al inglés?" id="34" solucion="c"/>
+        <pregunta a="goed" asignatura_id="4" b="went" c="goes" d="gone" enunciado="¿Cuál es el pasado de 'go'?" id="35" solucion="b"/>
+        <pregunta a="mouses" asignatura_id="4" b="mice" c="moose" d="mices" enunciado="¿Cuál es el plural de 'mouse'?" id="36" solucion="b"/>
+        <pregunta a="How old you are?" asignatura_id="4" b="What age you have?" c="How old are you?" d="How are you old?" enunciado="¿Cómo se pregunta '¿Cuántos años tienes?' en inglés?" id="37" solucion="c"/>
+        <pregunta a="alumno" asignatura_id="4" b="profesor" c="colega" d="padre" enunciado="¿Qué significa 'teacher'?" id="38" solucion="b"/>
+        <pregunta a="bigger" asignatura_id="4" b="biggest" c="most big" d="bigest" enunciado="¿Cuál es el superlativo de 'big'?" id="39" solucion="b"/>
+        <pregunta a="cold" asignatura_id="4" b="cool" c="warm" d="heat" enunciado="¿Cuál es el antónimo de 'hot'?" id="40" solucion="a"/>
+        <!--  Informática  -->
+        <pregunta a="Unidad de datos más pequeña" asignatura_id="5" b="Un byte" c="Una red" d="Un procesador" enunciado="¿Qué es un bit?" id="41" solucion="a"/>
+        <pregunta a="Computer Personal Unit" asignatura_id="5" b="Central Processing Unit" c="Center Program Unit" d="Central Program Unit" enunciado="¿Qué significa CPU?" id="42" solucion="b"/>
+        <pregunta a="Windows" asignatura_id="5" b="Linux" c="MacOS" d="Unix" enunciado="¿Cuál es el sistema operativo más utilizado en servidores?" id="43" solucion="b"/>
+        <pregunta a="Un lenguaje de programación" asignatura_id="5" b="Un protocolo" c="Un lenguaje de marcado" d="Un sistema operativo" enunciado="¿Qué es HTML?" id="44" solucion="c"/>
+        <pregunta a="Uniform Resource Locator" asignatura_id="5" b="Universal Resource Locator" c="Uniform Remote Location" d="Universal Remote Location" enunciado="¿Qué significa URL?" id="45" solucion="a"/>
+        <pregunta a="Una dirección de red" asignatura_id="5" b="Un tipo de hardware" c="Un archivo" d="Un sistema operativo" enunciado="¿Qué es una IP?" id="46" solucion="a"/>
+        <pregunta a="Random Access Memory" asignatura_id="5" b="Remote Access Memory" c="Rapid Action Memory" d="Read Access Memory" enunciado="¿Qué significa RAM?" id="47" solucion="a"/>
+        <pregunta a="1010" asignatura_id="5" b="1001" c="1110" d="1100" enunciado="¿Cuál es el número binario de 10?" id="48" solucion="a"/>
+        <pregunta a="Compilado" asignatura_id="5" b="Interpretado" c="Máquina" d="Ensamblador" enunciado="¿Qué tipo de lenguaje es Python?" id="49" solucion="b"/>
+        <pregunta a="Técnica de hackeo" asignatura_id="5" b="Correo no deseado" c="Robo de identidad" d="Ataque de denegación de servicio" enunciado="¿Qué significa 'phishing'?" id="50" solucion="c"/>
+    </preguntas>
+    <asignaturas>
+        <asignatura id="1" nombre="Física" tipo="Troncal"/>
+        <asignatura id="2" nombre="Matemáticas" tipo="Troncal"/>
+        <asignatura id="3" nombre="Geografía" tipo="Obligatoria"/>
+        <asignatura id="4" nombre="Inglés" tipo="Obligatoria"/>
+        <asignatura id="5" nombre="Informática" tipo="Optativa"/>
+    </asignaturas>
+</examen>
